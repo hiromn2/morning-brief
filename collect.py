@@ -72,7 +72,7 @@ def fred():
 def jgb10y():
     url = "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     df = pd.read_csv(url, encoding="shift_jis", skiprows=1)
-    df = df[df["10年"] != "-"]
+    df = df[pd.to_numeric(df["10年"], errors="coerce").notna()]
     return {
         "value": float(df["10年"].iloc[-1]),
         "prev": float(df["10年"].iloc[-2]),
