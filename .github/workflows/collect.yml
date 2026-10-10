@@ -1,0 +1,26 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "15 21 * * 0-4"   # 06:15 JST, Mon–Fri (cron is in UTC)
+  workflow_dispatch:           # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install yfinance pandas feedparser
+      - run: mkdir -p data && python collect.py
+      - run: |
+          git config user.name "collector-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/latest.json
+          git commit -m "data: $(date -u +%F)" || echo "no changes"
+          git push
