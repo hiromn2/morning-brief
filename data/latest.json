@@ -1,70 +1,70 @@
 {
-  "collected_at": "2026-11-19T02:35:02.795610+00:00",
+  "collected_at": "2026-11-20T02:19:51.080613+00:00",
   "markets": {
     "S&P 500": {
-      "value": 7323.6299,
-      "prev": 7340.5298,
-      "date": "2026-11-18",
+      "value": 7175.8301,
+      "prev": 7323.6299,
+      "date": "2026-11-19",
       "source": "Yahoo Finance ^GSPC"
     },
     "Nikkei 225": {
-      "value": 59149.3281,
+      "value": 56889.2695,
       "prev": 59024.2812,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "Yahoo Finance ^N225"
     },
     "USD/JPY": {
-      "value": 159.407,
-      "prev": 159.504,
-      "date": "2026-11-19",
+      "value": 159.236,
+      "prev": 159.381,
+      "date": "2026-11-20",
       "source": "Yahoo Finance JPY=X"
     },
     "BRL/JPY": {
-      "value": 27.6,
-      "prev": 27.575,
-      "date": "2026-11-18",
+      "value": 26.851,
+      "prev": 27.086,
+      "date": "2026-11-20",
       "source": "Yahoo Finance BRLJPY=X"
     },
     "USD/BRL": {
-      "value": 5.7768,
-      "prev": 5.7826,
-      "date": "2026-11-18",
+      "value": 5.9346,
+      "prev": 5.8817,
+      "date": "2026-11-20",
       "source": "Yahoo Finance BRL=X"
     },
     "Ibovespa": {
-      "value": 167537.9531,
-      "prev": 169817.0,
-      "date": "2026-11-18",
+      "value": 166376.4375,
+      "prev": 167538.0,
+      "date": "2026-11-19",
       "source": "Yahoo Finance ^BVSP"
     },
     "VIX": {
-      "value": 24.56,
-      "prev": 25.46,
-      "date": "2026-11-18",
+      "value": 28.44,
+      "prev": 24.56,
+      "date": "2026-11-19",
       "source": "Yahoo Finance ^VIX"
     },
     "VIX 3M": {
-      "value": 24.29,
-      "prev": 24.98,
-      "date": "2026-11-18",
+      "value": 27.03,
+      "prev": 24.29,
+      "date": "2026-11-19",
       "source": "Yahoo Finance ^VIX3M"
     },
     "US 10Y": {
-      "value": 5.066,
-      "prev": 5.103,
-      "date": "2026-11-18",
+      "value": 5.052,
+      "prev": 5.066,
+      "date": "2026-11-19",
       "source": "Yahoo Finance ^TNX"
     },
     "WTI": {
-      "value": 82.3,
-      "prev": 86.01,
-      "date": "2026-11-18",
+      "value": 82.9,
+      "prev": 83.26,
+      "date": "2026-11-19",
       "source": "Yahoo Finance CL=F"
     },
     "US HY spread": {
-      "value": 3.43,
-      "prev": 3.34,
-      "date": "2026-11-17",
+      "value": 3.47,
+      "prev": 3.43,
+      "date": "2026-11-18",
       "source": "FRED BAMLH0A0HYM2"
     },
     "St. Louis stress index": {
@@ -74,332 +74,482 @@
       "source": "FRED STLFSI4"
     },
     "JGB 10Y": {
-      "value": 2.916,
-      "prev": 2.925,
-      "date": "R8.11.18",
+      "value": 2.87,
+      "prev": 2.916,
+      "date": "R8.11.19",
       "source": "Ministry of Finance jgbcm.csv"
     }
   },
   "headlines": {
     "Japan": [
       {
-        "title": "Anthropic IPO raises $107.3 billion to top SpaceX’s record debut",
-        "link": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/",
-        "published": "2026-11-19T02:12:00+00:00",
+        "title": "Japan’s CPI picks up, keeping BOJ on track for rate hike",
+        "link": "https://www.japantimes.co.jp/business/2026/11/20/economy/cpi-up-boj-rate-hike/",
+        "published": "2026-11-20T02:12:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Father arrested after 3-year-old daughter dies in Hyogo Prefecture",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/crime-legal/japan-hyogo-child-abuse-death-arrest/",
-        "published": "2026-11-19T02:07:00+00:00",
+        "title": "Rohingya crisis remains unresolved as ICJ rules on Myanmar",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/rohingya-crisis-icj-myanmar/",
+        "published": "2026-11-20T02:09:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Grand Theft Auto VI draws rave reviews as gamers return to Vice City",
-        "link": "https://www.japantimes.co.jp/life/2026/11/19/digital/grand-theft-auto-5-launch-reaction-rockstar/",
-        "published": "2026-11-19T01:47:00+00:00",
+        "title": "Six months on, have Japan’s new biking rules made cycling safer?",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/society/new-cycling-system-safety/",
+        "published": "2026-11-20T01:42:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Nagoya animation festival celebrates human-made art",
-        "link": "https://www.japantimes.co.jp/culture/2026/11/19/film/aniaff-nagoya-animation-festival/",
-        "published": "2026-11-19T01:45:00+00:00",
+        "title": "U.K.’s EU reset hits China EV speed bump",
+        "link": "https://www.japantimes.co.jp/business/2026/11/20/uk-eu-china-ev/",
+        "published": "2026-11-20T01:41:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Nvidia turmoil spurs valuation rethink of Japan’s AI shares",
-        "link": "https://www.japantimes.co.jp/business/2026/11/19/markets/japan-ai-shares-investors-rethink/",
-        "published": "2026-11-19T01:44:00+00:00",
+        "title": "GSDF identifies cause of fatal tank explosion in April",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/gsdf-tank-explosion-cause/",
+        "published": "2026-11-20T01:39:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "賃上げより手取り増「食事補助」に注目 月7500円の非課税枠活用、物価高のランチ防衛 なっトクマネー - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40eWpjUkp1ekJld3lFeXdFSVpaSmpFTmR3RnRTN0h5c1JsRXA3Z25XWDlMYzNVSEpxXzBxN1ZEWlhHY3Jacm11amg3M3JTemtQ?oc=5",
-        "published": "2026-11-19T01:41:55+00:00",
+        "title": "ソフトバンクG株価が一時3000円割れ 米アンソロピック上場でAI株急落 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZ2owMUdwQlJIRS1aR3hJN3NjcUJzem5tNlduZEx6dnVXbVlUeFhLUXpDM2J1T3BHVmJhYTB6NXRlQm16N3c2aVhZdXhVM0V6SVdUb0VXdm1mRFN3Ny1BUHFQSGM3WFozN0xNbg?oc=5",
+        "published": "2026-11-20T01:30:37+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "Brooks Koepka determined to make run at 2027 Ryder Cup spot",
-        "link": "https://www.japantimes.co.jp/sports/2026/11/19/more-sports/brooks-koepka-rsm-classic/",
-        "published": "2026-11-19T01:38:00+00:00",
+        "title": "The 20-year-old who thinks AI will kill us",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/society/akira-hayashi-ai-threat/",
+        "published": "2026-11-20T01:30:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "2人死亡ひき逃げ事故、容疑者の勤務先を家宅捜索 神奈川・海老名 - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wUWsybXhmN1N5T29BeFNLR3lMWFV2QWxxY1AwMlBnMzNpazA5NVpYY3JKMkNTclhrQ3BYc3dxZzVmVm1ZYVN0TTE3SFdHak8x?oc=5",
-        "published": "2026-11-19T01:37:54+00:00",
+        "title": "スシローのアメリカ１号店、ＮＹ中心部にオープン…１皿８００円から・チップ不要 - 読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQYWd1WjFVQ3ZncTI4SlJJa2IycFBEWXhUQmlGY2RNdktFY254ZGFZQ09CU1lDYV91akt5YTR5d1VqUm5TRU1KTm16Nm1DRTZvaTNaVDNhcWlPeVdBeE95ZGM1cW0?oc=5",
+        "published": "2026-11-20T01:22:00+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "Tencent’s profit squeeze exposes China’s AI spending dilemma",
-        "link": "https://www.japantimes.co.jp/business/2026/11/19/tech/tencent-profit-china-ai-spending/",
-        "published": "2026-11-19T01:37:00+00:00",
+        "title": "Lando Norris taps George Russell as Formula One’s most likely James Bond",
+        "link": "https://www.japantimes.co.jp/sports/2026/11/20/more-sports/george-russell-lano-norris-bond/",
+        "published": "2026-11-20T01:22:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "通学中の男子高校生が市街地でクマ１頭を目撃、１７日出没の「親グマ」か…近くに子グマが捕獲された川 - 読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DTlMxUEo1WTFHUkFtc08tWE1YcVdpUURTTDhwYXVwbXdGTmppSFpNWVZRNTlRTzJjZkR0X1I3dkN0ckNNRnNTYTZLQnF4cTFjRXBNWW9iMHB5NzBNR1ppclJsVDBsUQ?oc=5",
-        "published": "2026-11-19T01:32:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "Governments warn Java flaw leaves computer systems open to hackers",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/world/governments-java-computer-hackers/",
-        "published": "2026-11-19T01:32:00+00:00",
+        "title": "U.N. could soon be leaderless as race to succeed Guterres stalls",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/world/politics/un-new-leader-guterres/",
+        "published": "2026-11-20T01:09:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "三菱UFJFG株価6日続落 銀行顧客情報650万件漏洩、不正アクセスも - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zaFBldFdfeF92NlhjX3U0Y0RRcEMyZl9ydG80aVhZWUJqaWxSazQ0SWlkang4ZlZJSWhJV09kc01wdkJuVTdZNWJ2LXZUS2RhYWtzM3UyYzgwYUNldTRmQ1V5WkhFdnZkcDhUNA?oc=5",
-        "published": "2026-11-19T01:31:20+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "Kozo Tashima willing to meet with Philippe Diallo about rival bids for FIFA presidency",
-        "link": "https://www.japantimes.co.jp/sports/2026/11/19/soccer/tashima-diallo-fifa-presidency/",
-        "published": "2026-11-19T01:30:00+00:00",
+        "title": "India to let Japan use firing ranges for missile tests",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-india-missile-tests-range-defense/",
+        "published": "2026-11-20T01:07:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Israel launches ground operation in central Gaza as dozens flee",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/world/israel-ground-operation-gaza/",
-        "published": "2026-11-19T01:27:00+00:00",
+        "title": "本丸かすむ所得連動給付 「過不足なき再分配」の追求やめるな - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiRkRvTHNzRU9pMGtqZzQ0MHkyR1lZWEtUX3JMREhFdjh0bnQydjU3X2hzeXZUSDZOMlZFTnZfbk1MSURPLUE3cm5NWlhOMndEVGcydzN6dTJ4R1UySFBVLW0wYkhnRXJ5TkpJbQ?oc=5",
+        "published": "2026-11-20T01:00:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "Ravens deactivate Marlon Humphrey after remarks about Baltimore",
+        "link": "https://www.japantimes.co.jp/sports/2026/11/20/more-sports/ravens-deactivate-marlon-humphrey/",
+        "published": "2026-11-20T00:59:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Magnitude 5.7 quake jolts Kumamoto Prefecture, but no tsunami warning issued",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/kumamoto-quake-no-tsunami-warning/",
-        "published": "2026-11-19T01:22:00+00:00",
+        "title": "Putin says no sea or energy truce after Ukraine hits Crimea Bridge again",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/world/putin-ukraine-crimea-bridge/",
+        "published": "2026-11-20T00:52:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "中学生はねられ意識不明 70歳逮捕 - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UQXh5Qk1WUEZZUV9nVTlHZ3JOTXpKUU1GUUJ3RW5RNzJJSnU2WTZPUlNWVHNSOTBUSTI3elM3LVhXVWxkYU0wUTJsMnpXQV9i?oc=5",
-        "published": "2026-11-19T01:19:39+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "“てんかん”の影響で正常な運転できないおそれのある状態で運転 意識障害起こして暴走 当時22歳女性を死亡させたなどの罪問われた女に「危険運転致死傷罪」成立認め「懲役5年・実刑判決」（FNNプライムオンライン） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYkszSnFTRXhNdkV2TUQ0Z29ab1dNZ1UtTFBpcHJ3ZnUyLWQ3Ukhsd3pNZlJTcU4wNEYzaDM0MGw1VVlEbkRvSzVna2hfWUtkbzk4UUp3ZmNNbHdtek42UDllUTRCdVlOd0xtYWVoYXQ0QXNXSWdoYXgwTnlRWU0?oc=5",
-        "published": "2026-11-19T01:18:24+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "Operation Vivaldi: Ukraine melds man and machine to repel Russians",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/world/operation-vivaldi-ukraine-russia/",
-        "published": "2026-11-19T01:15:00+00:00",
+        "title": "U.S. President Donald Trump posthumously pardons Pete Rose",
+        "link": "https://www.japantimes.co.jp/sports/2026/11/20/baseball/mlb/donald-trump-pete-rose-pardon/",
+        "published": "2026-11-20T00:50:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "Saudis preparing for Yemen campaign to last well into 2027",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/world/saudi-yemen-campaign-2027/",
-        "published": "2026-11-19T01:02:00+00:00",
+        "title": "ゴールドに吹きつける強烈な逆風、金投資家は試練の時 - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUb0lsZmhnVGV4bEFSVURNMDQxMGNGTGdZN3k1WnRybWpXQzh5d0VjdFpUWG1XblkxSmdnaTVIU3Q1OGx6VUhENk02Snl3Z0hDTkdFNEtrVExjSnlYa052TWp5aWRXSGxIZWZ2RDlCLVF4VTVLLW1USFRqRXpZeXM?oc=5",
+        "published": "2026-11-20T00:45:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "日経平均 一時2000円以上の下落 - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55VFUwRlE3N1dVSFhkaTBIcnZPTHNMM09oQ2QzYWJLVFBObGxGT3Vhcm1PMDlMQkRHWDJiVG40czBUampyR0g2RW51RXB1SEQ3?oc=5",
+        "published": "2026-11-20T00:39:14+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "Iran intensifies Hormuz tanker attacks just as oil prices slide",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/world/iran-hormuz-attacks-oil-prices/",
+        "published": "2026-11-20T00:29:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "大分・佐賀関の大規模火災から１年、更地となった町並みにため息 - 読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mQjJJcWdJYks0OHRrNUtVWklzdlFNUFZGdXhOZkYydFNvMEN3RTlzZ2Q0NVhtOFV3Y2h0UTkyaW1PSzAyX2Z6Ml9WU0Jza0JWZkZjMXRQS0VLUzZPcy1LX3RCbG5rdw?oc=5",
-        "published": "2026-11-19T00:59:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "JR Central announces delay in releasing maglev line’s opening schedule",
-        "link": "https://www.japantimes.co.jp/business/2026/11/19/companies/jr-central-maglev-delay/",
-        "published": "2026-11-19T00:39:00+00:00",
+        "title": "Espionage, intrigue and a little Japanese grammar",
+        "link": "https://www.japantimes.co.jp/life/2026/11/20/language/japanese-spy-disguise-language/",
+        "published": "2026-11-20T00:22:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "東証寄り付き 日経平均は一進一退 米アンソロピックの需要支えも米ダウ平均の下落重荷 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WMVFUZEpSaWI2VGhaa3BpcEtnVkU1OHZLMHdhOURYS3RJRDhYMFhTSlZDYUk5bzZIQ1B4TUxpYW1wQ0VpUU5TaW1RS3VteGhMZGgwbUl1UjJPSHR5V3V3djc0ZHJUeElWRXVLQg?oc=5",
-        "published": "2026-11-19T00:35:27+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "Anthropic IPO公開価格は83ドル - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXMFZEM3BRcU50N3ZGX1ZLaWRPcFBhWk9jelZ2YTJjSFBqNDVWdi1GckQ0QUlKUndDRXVvemhaRWgyZDQ1Yk04VHpwUTJKUzJ3?oc=5",
-        "published": "2026-11-19T00:34:59+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "「三浦屋」を運営する下風呂観光ホテルが事業停止、負債総額４億２０００万円…硫黄泉の露天風呂が人気 - 読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xeTRDU29PRnZwRE9NTXQxanBxQXVQZmJGaUVoVXF4dGd4clUtWWxVVnlIVHBYekhkLWhncmF6R1U2dU9lSHlUWTB0Nkd1ckVSckpZbV83TEpKdkg3eGpVVTVwczE?oc=5",
-        "published": "2026-11-19T00:05:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "21日にかけ風強まる 暴風など警戒 - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZk5BLXBwQ29lb2dScDRidVROa2xrMUhDWnBXVG9NMGhIazgxaHpaT1pKZUxpM1FfY2FWbG0zQjFucGpFUU03WnJ6cXBWUFF0?oc=5",
-        "published": "2026-11-18T23:36:40+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "（朝）米国市場は高安まちまち　主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rTzE1QjNyMldlZWZlMy1NS1VoT1hYMGtoeEtDN2NybmVVbU5fWTJ1YUtlUS1XT2ltU0lNaUhzSTladE81Q0xVVXdPWHdtRWU0NENxLdIBV0FVX3lxTE1mVXlJdzJyN1F5U2s3WVJJUWc5RExPdlpuUG9Xc1FBZDZPVkV0MXpTQlJxMWZFNDYxMzYxbnZhdFZJMlc2NkNSbjlvWFljVnJ3QTQ1Tm5rYw?oc=5",
-        "published": "2026-11-18T23:13:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ（窓の杜） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZllXMjdJZmcwNGJpTTR4MU80MkJWWGg4dnBnd09sZ3M0UlVRNmdCQXpiTzVNckFweUtVWHNSRmlmSTFfNGMtRDY2cXVaWGlxVnNjNV96TTg2U2NfNWVSZ1E4X2xkeC1ZVVdmOHlqVm4xbXFSdVgzV0xTNDVDTXc?oc=5",
-        "published": "2026-11-18T23:13:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "金・銀が14カ月ぶり安値に急落、米12月利上げ観測とドル高が直撃 - Forbes JAPAN",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCNDg0YnJNYjhkTEFKMDVSSVhtQ3lfZ3NZaXVPWXN1MzllME05Y3pPR1ZSRThVME44Y29lTklUNzh6VFh1Rmp6TDFUM0NIYllHSEtlV2Z3UUtWdw?oc=5",
-        "published": "2026-11-18T22:30:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "缶ビール３本飲んだ後に乗用車で釣りへ、酒気帯び運転の教諭を停職１年…「睡眠を取ったので大丈夫」 - 読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaW9reHNVMWFicEpQUExCVDRvQkhUMHBiWHRyMml3ZkVzTXJOeVRNQm5EWjJZdlMzMXBpaFN4OGhNcG1NSExVV2xfblpJTzFORGdqenpTSWdaZmItUWVYa1RlbC1Pdw?oc=5",
-        "published": "2026-11-18T22:30:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "エヌビディアとアンソロピックが、ビットコインに新たな問題を引き起こす可能性がある（海外） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yR0hHWHAtQU9TMVh0NFlGTmY0dUJxS0U5U2dPVlRnellkYnlNVUtuMk5YWnRlUFY4QTg3S3FiSnM5cnJsMUpWcUY2U0pUakxWLXI0T3V4d2Y3eFlwVmwyS05XcU82cVl6VFJ1al81S1ZLV3JPdnFjLXFGckE1ZlE?oc=5",
-        "published": "2026-11-18T22:22:35+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-putin-russia-japan-talks/",
-        "published": "2026-11-18T22:15:00+00:00",
+        "title": "Tokyo Salone wants to make Japan’s creative circles less exclusive",
+        "link": "https://www.japantimes.co.jp/community/2026/11/20/issues/tokyo-salone-ideas-creatives/",
+        "published": "2026-11-20T00:05:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "“無断エサやり”でロバが体調不良 「吐き戻しとせきを繰り返した」 他の動物の飼育スペースでも市販のエサを確認 「死ぬこともあるのでやめて」（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWjRMSTl1WFU0M01iZkpqQTBRQjhXdXNMMkJsY014V1lnd2xJWUNSZnFRc3l3cFc5d0wwbGVsTHp1VVBVaUJkeV8tdm5LV0VQN1hJOUNqQjNjZDUtVTZBdVVVNkRET3RTQWotbXowOGJJbUJfdkJSdHA5Q3RuSGs?oc=5",
-        "published": "2026-11-18T22:00:42+00:00",
+        "title": "10月の消費者物価2.2%上昇、2カ月連続2%超え - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1taUZuVnZudEJTanZETnVLRnRHT01sNjR4Q21ya3JCa25GWHh0M3cwYVFYNlJxdEtRWmRaaUJLVUwwaWN2MVVlRmswVjVWakJvaHpRbTRPelMzb01ROWVGR3NicXByaE56bUFNNQ?oc=5",
+        "published": "2026-11-19T23:31:14+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "auの「INFOBAR ZERO」12月25日発売、ネットもSNSもない通話・SMS専用ケータイが8年ぶりに復活 ｜ auの2台目なら月額550円で使える - セレクトラ",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QR2FYTllNRVFndGo5T3FCZHVaTm5nank1UC1rUjlRb1lzekxZX25tNm82V3ZBSWdBamphcGhpaUw2NVo4MDlDNkd6VmtSSFIwc2ZwQVlmZjJGNU9IWUdJeDNHQ0FUQXFGMEFCYTBuRkFoaUFJNWZJdkZn?oc=5",
-        "published": "2026-11-18T21:15:00+00:00",
+        "title": "（朝）米国市場は3指数揃って下落　ハイテク株を中心に市場全体が下落し売り優勢の展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qM0tLU3BLQlpWdlA3eEtveVplcjJjTnMzRms2ZDM1aEI0d2NZUmdGY3BnVDlyQVNfcE91Z2xKRjhBZDFqOFlVOE5INEpWTE80SGllRNIBV0FVX3lxTE8tNFhPY3JsQzBWSGtTai02X1lXXzZtQjVlTGlmNU4tckxGZ0h5UmRaTm5qbFBCN3ZveEhaMDhJclhMR2FBbU9SVzJlNThrcHdjLUVrekpDVQ?oc=5",
+        "published": "2026-11-19T23:17:00+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "「自民はここまで弱いのか…」「高市人気が全く役に立たない」 大混戦「福岡市長選」で“自民系候補”が4位の悪夢…党幹部が頭を抱える“統一地方選”への危機感（デイリー新潮） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMQXM5YUJPM0RpMS01N21SQllpWkpNMDB3SFpsNW5QRjZZMG1ER0ZMMDRIVkVzWWQyZUpfR2xCUERueGNxd3VHb1BSVG40c0lzQzUwdXBZVGpRWWkwbTl5WEU3czdGU1RtekxpNzNUbGVCN1R4UXlUd1Rxa25iOTA?oc=5",
-        "published": "2026-11-18T21:11:13+00:00",
+        "title": "福岡県議会百条委の林委員が辞任へ…蔵内前議長の元秘書、議会内で「不適切」の声（読売新聞オンライン） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbW5qUG5DcTV3YkdjdTZ0LXhyQTcwZDJ1SEdLb2FELWt4UDhpVE9WblVyYnhzN2VCb2JXbVFJNU9ieWRUMzQ3R2htZUtuWTh0ZHFNczNWRXNFMS0xS1lZb3lfSlFTVjBoRDlGT1lqQ1p0X1pycFRPalhwYzdkRUk?oc=5",
+        "published": "2026-11-19T23:01:51+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "世界的サーバーソフトに脆弱性 「エンジンエックス」攻撃の恐れ - 47NEWS",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ON1IwYndxY3lnczFBNUFBSl84Z3Z1UnAwRlI0bE1OcFpGZm5xOTdKVDMxSk1paWR3S0tZc1JQTlA0VWlia1dUVjQ4bw?oc=5",
-        "published": "2026-11-18T21:05:00+00:00",
+        "title": "首相の中国訪問「新ヤルタ」警戒 - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STTBnVHlzZUxiS0M1VXpEdkkxSmhWcE1rM0tIVzhFQXJsUGl5YklzTjI2cnBHLXNxRkFWMXRscG9qbGE1ckFlR0FybXFfdnIx?oc=5",
+        "published": "2026-11-19T22:35:06+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "サムスンより割安なキオクシア PER2.77倍が示す「当面の目安株価」 - 現代ビジネス",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Tek5yUXp6V05HdmMtV1B0cm1kT0ZiS1RPRGltbjVBQUhIY3RkRVlDWEdIWEJSejc0STFJZU9sVlcwVXhlTHBITmRLZzc0bmM?oc=5",
-        "published": "2026-11-18T20:01:48+00:00",
+        "title": "秋田県を離れたいとまで… クマ対策巡り県庁へ届く切実な声、職員への中傷も - 秋田魁新報電子版",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PWU05MmpqcHNEc1BNdWVURFhVSll0REV4LWZfUXMwNVdQcTBjeFB1dTRRb1lVWUFGTkU4Y2F1THRRVTlhOUU3dzh6TWQwT2xkeXFUZFlHeXdMS2dHMnJIVFZR?oc=5",
+        "published": "2026-11-19T22:20:00+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "インドネシアが経済的危機を迎えている理由…株価も下落し、為替も最弱、世界４位の人口と多大な資源を持つ国に起きていること（Wedge（ウェッジ）） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TalRKTERwSW5OZEhWdE10TXFkRmsyZWVMeEwxakZYS2xFcWRhejQ0UHh1UldPMy1Lelo1ZXY1S1VZVXYxMTRXUi0weFRpUVRWbUhKdDE3bmJ3VkRuWjVVbVdWRElWZkllbEtfWWZweWlYb21YWXRlRWVsTlhoTEU?oc=5",
-        "published": "2026-11-18T20:00:38+00:00",
+        "title": "米、対中ＡＩ半導体輸出90万個近く承認 半年間で＝下院委 - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Tmh1bm9BUDZnU2hVUm9MZE8zb3l5WklKNk9DVkthYVVTeVN6czhXZVZoRTdNWVJJZkZXbGdDMjRnNEJvcDBRSHBiS3laLXNYTk4yalVVRnhPQ1pOQ25seDhCVXVsWDhxNjdpNUNuY0pwY2xabXlJS2VZRjRTaEU?oc=5",
+        "published": "2026-11-19T22:08:09+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "「ＡＩ業界の中央銀行」エヌビディア、フアン氏退場で巨額投資のあり方が見直される可能性 - 読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qcVVTODVzWmFNTURJY3F0SDhrQjl3Ml9uc09VNnZja2NnV2s0eEMtQW02Yy1lYmpvaDI3b1NlOFhHVVdaaDRSY1h2ZVpDWWxHTXh1eXo1MzNKVGdpb3lrNk1TcnQ?oc=5",
-        "published": "2026-11-18T20:00:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "半導体株、TOPIXに逆転許す 3割は高値の半分以下 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UaGk5ZVZ2bHRqWWlnbURmNXVRaDhFUlA5Wk9yTTBmb1VLQjZzRWlrSGduaGtGMEYtei02ZU9QdF9BQmgyT2cwTmt1THd2YmZyTDdzbGFyZWphcml1RmRNZHJ2ekR5UFhJcHFZZg?oc=5",
-        "published": "2026-11-18T19:30:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "【FOMC】「一部の当局者は、10月に0.25%ポイントの利上げを支持した」｜FX・為替ニュース - ザイFX！",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTGhWUHlaMmdpdjB6c1RFYWlwTnktNXVhN0puZzhKMjhFSW1PR3gxbS1VM0ZTVk5fRjRxSEhIM1FzQ0hJMzhQV094UF92SFFaMWc?oc=5",
-        "published": "2026-11-18T19:14:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "銅相場5％超急落、AI関連トレード崩れる-供給逼迫でも金属市場に売り（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbmZoRlpiRWVmMVZTY25LNWR1MHJmS0N4aVF2TWFycTRXZm8zNTBnWTE2QTg3R0pKajdQZnBNejFNVjJXckFfdHVwWjd1d2VEZnYtMUN4ZFFTZ01CVnhDbVlWc2E2anB2UDNJQ0pxX011akpmbUJfeGtXWXZ4NlE?oc=5",
-        "published": "2026-11-18T19:02:14+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱 津波の心配なし - ウェザーニュース",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VDlxbUVnWkFFcXl6am1ZSS1idk5RNXhTZlRtdktJNUlmdGVrcm15THB5R0tueUdvenowdHdqQlBIWF9HS2gzMkdiWkFRNDJnQW9PcndmNU1UOUE?oc=5",
-        "published": "2026-11-18T17:28:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "高市首相、プーチン氏と約30分対話 日ロ首脳が対面では7年ぶり [アジア太平洋経済協力会議][トランプ米大統領] - 朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TcjJKNzlJWEY4cEJqZ0JhbFlGalNvMTQ2NEN5Q3d5ZWo4NGw0Uy1xa2s3YlhSZnhKNFVCSXo5ZmZMMWNBeTJjSnFRS05uYkJPYVdRV3I1aG5aN0o4b2xMUi1vdmFCN2c?oc=5",
-        "published": "2026-11-18T16:51:37+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "フランス産「ボージョレ」解禁 価格維持も、市場は縮小（共同通信） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNUhDTFV3ZGhzeUUwbGlMTWlnaW1NQkstaWtnMjNhQkZfdWxCN0xGcFNqWVZtQUt3d0VfMTI5N1BOUjhuanJRR3g0NXJkWmNNeHRoWExNOW4xaUlVdmVuVHYzblBGdmxWc1BOcWh3bUEyQWEtd0p3dkRYTkExZkk?oc=5",
-        "published": "2026-11-18T15:10:13+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "富士山で遭難の中国人に懸賞金 警察は捜索“打ち切り”決定 在日中国大使館“閉山期間中の登山しないで”呼びかけ - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeTdIS2FUaDAxdTRXLVJVOVpyNnUwVDN2MHB0akMzQ0pScEpNY1hjOS1DSEsxMm16WjltVnhHUmFibm5RamJkZEtpR2xjUXc3?oc=5",
-        "published": "2026-11-18T13:52:58+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "ソフトバンクGの孫社長「AIバブルではない」投資継続の考え - NHKニュース",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41WU11WF9EUmtOS3ItZGhROFJtZEJNZ2JnX3FPQWNHM1JpRG1jcXV3d2FETklSTUFRV1lIT1ZYZG12amxSSTNpcWIweC0tYmh4Z0kwODU3aEpYRk8zZHc4?oc=5",
-        "published": "2026-11-18T13:33:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "伊丹で3歳娘暴行死疑い、29歳父親を逮捕 全身に数十カ所のあざ 児童相談所から戻った自宅で虐待か - 神戸新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdV9DQVZ1UW1vOFJjWG9GWjVRRDFvUFJMaTFhVmRSWUhDcGFWU3MwdTBHRVBZeWFHdVdSVDhpaVpFaFNFSGxRSEZERHNpZXM3U3dUY3VlS1FLbnVtOS1paVJXek9TTW92Q25Xcg?oc=5",
-        "published": "2026-11-18T13:17:00+00:00",
-        "feed": "news.google.com"
-      },
-      {
-        "title": "Xi greets Trump at Shenzhen at airport in rare move",
-        "link": "https://www.japantimes.co.jp/news/2026/11/18/asia-pacific/china-xi-trump-greet-shenzhen/",
-        "published": "2026-11-18T12:16:00+00:00",
+        "title": "Trump’s camaraderie with Xi and Putin draws pushback at home",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/world/politics/trump-xi-putin-pushback/",
+        "published": "2026-11-19T22:06:00+00:00",
         "feed": "www.japantimes.co.jp"
       },
       {
-        "title": "シンガポール訪問中の愛子さま、大統領を表敬訪問…昼食会で「友好の歩み受け継ぎ交流広げていく一助となれば」とあいさつ - 読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NRVdiSWlfZzBaWFltc0J2N0NPdHpUOWZqSlNjTy1RY0JMSGsyc0I3dlJ4aVhIRUdpRFoxNWE3M0N4Q2hxVkoxOVhJMGk0a3BHY3I2SWJoNEx2UDM5WTRhcUpoZVhmY3M?oc=5",
-        "published": "2026-11-18T12:14:00+00:00",
+        "title": "JTがロシア事業の支配喪失、いったいなぜ？1兆3770億円の巨額損失を招いた大統領令の中身、ターゲットはJT以外も - JBpress",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6Sy1wejJCLXFXcEt0Wll3N2hMNmhxUExtckwtVHcycjgxMUxFRnZYTUdiNEhRN0l3bllHOTRySTI4a3hWNzhDU3ZhbmpDb1N6c0NJTmhvUU5EQ3pUb2dr?oc=5",
+        "published": "2026-11-19T21:00:00+00:00",
         "feed": "news.google.com"
       },
       {
-        "title": "Top court rules prisoner voting restriction constitutional",
-        "link": "https://www.japantimes.co.jp/news/2026/11/18/japan/inmate-voting-ruling/",
-        "published": "2026-11-18T12:11:00+00:00",
+        "title": "新潟で初雪を観測 平年より3日早い冬の便り - ウェザーニュース",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBha2FmZmwxa2dpbjFLRmtPejQwRFdPRS1GN1AwNzZKd2hYcDR2enUycV9pM2Rfbm5PWWJDcGM0UDVMUkxLbGFweHM2ZWhYYWYwdjVqVw?oc=5",
+        "published": "2026-11-19T20:43:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "H3ロケット 次の11号機の打ち上げ業務民営化へ | NHKニュース | 宇宙 - NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wcFh2OEl0UmVhU1lQY0ZfaGE3Vjdna1hSRFB3OGNrSlVvQWx0N3ozbERJUE9BRlBHeHJ2WlZSdlZudkF4SU5CU0ZjOEtlalZFUVE0T09xUGVnWTFfdm00?oc=5",
+        "published": "2026-11-19T20:42:47+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "入所施設職員に「パパ怖い」「ペチンする」…兵庫・３歳死亡、児相や県警とは情報共有せず - 読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHMzBDUDMzZHB5dk9pZDVSajhrTjdWZHNfMlBMSzU5VnhJSHowa3lOMjFtTVJFTDRRakwtVi1VT241aFdYcURLeUg0ZmF3VHJHNHpEX29TRHBoS241TVdrakF2cXhsQQ?oc=5",
+        "published": "2026-11-19T20:00:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "5回の通報、顔にあざ…兆候あるも 幼い命なぜ救えなかったか - 毎日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iOG1yb3lhcTI4VFZ1Mm8yNFVlaXhBWk5ubW1HZ3dlSDg1dE5SRnhUdG1IeElhNnVPTHBQMDRiaUVIamIxT3EzbTZobkRGbVBJa2N2aDZtbGZSUFUyMnNtam54ZnRvWjBk?oc=5",
+        "published": "2026-11-19T19:59:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "ウェイモ、米高速道走行停止 安全懸念、州当局が禁じる（共同通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FTHNIZWpLVDUxOFpKUHRYNnVwVzlNdFRPVDd0UlliU1JiMTRxU21ac3dSRUYzOFlMTk9raHNmRG8wTFJoa0tfS1NMZFBlZjB0aFZRUXd0LW5RR2xObmNSZjFCSnRrcVF2Vy1DR0kyUloxUTNKaU42NF8temJrM28?oc=5",
+        "published": "2026-11-19T19:08:13+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "資産情報漏えいした可能性の楽天証券に金融庁が報告徴求命令 - NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZWdNRkxsd0MwdUtPYUhMTlNJd0ZJZjNwNjNPT0RfSy1tOGlkM3R5WHdXaXgwUXhQbHZNZFo2c0VnNkRFZkxNc3JLcU9aTGlLNl9BQUtpTW1YeUcydGdv?oc=5",
+        "published": "2026-11-19T15:51:34+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "【速報】ドル・円159.92円、米・10月景気先行指数は予想外のマイナス｜FX・為替ニュース - ザイFX！",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPNjV4X09PdkdtU015dTdJZ0Rjd2UtQmNFTVp5cV9RcUxqUnJnSVg5VUlFTGd6OFlWUUtHSXJpbE4xUkxMbkYtV2ZPQU5lUHc1WEE?oc=5",
+        "published": "2026-11-19T15:03:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "【ＮＹ為替オープニング】原油高や米12月FOMCでの大幅利上げの思惑にドル買い - ザイFX！",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSWJTaG05SzRrZWNKVmxUOHhnRFZvYkpWRktNQ1pCaEF3MU55U2huUU5McWlwd21aalg4cE9aWmZ6djRKcWtOUWNmMkpHN0VZOFE?oc=5",
+        "published": "2026-11-19T14:52:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "損保大手3社の中間決算 2社は減益（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4YUgyTG5YWmRtT1EteDRfSzduSUtrMXl0M3N2TDE2THNFWFRmMmFMN255YVd2RUctLXBjbWN5dE1BMkk3NlhfRk85RUZqdTVsZFV1QWFITlVVeG9lNnh0R0VRZnV4aUdueW5FbUpIY0NrVUtvU0VkeUF6WWxhYzQ?oc=5",
+        "published": "2026-11-19T14:13:40+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "高市首相とトランプ大統領が電話 「米中ロ会談の詳細な説明受けた」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SbkVFMEg0NE5Xb2cwUXdKRk5UWVNfdzJDTlhzQ1ZPWEZhRTRWV28zaGtaTVdxUlowcF92QUNEMUdNek9iV0tDdGlrMGtGR29fS0U2cEd5V2lCZE1SQnl0bGtvT3BVM0RnZEQ5Yg?oc=5",
+        "published": "2026-11-19T13:27:59+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "北海道留萌市、住民基本台帳データ最大7万1002件が漏えいの恐れ 氏名や現住所も - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZG9XTUtkbUFpSjVLNEl2ekR2OGdfM0x0V1VNdThHTXhtMEtMNk5sYXlncGNoWWhiQ3hkbHoySnJwcktjckhibkxOWXNYRmdMdEJ6Uno4WHV0SmhDRFhHdGt3UFlBdG01TFRNQXZjOW5xTVFoYVBBcURFbDNmREE?oc=5",
+        "published": "2026-11-19T12:56:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
+        "link": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
+        "published": "2026-11-19T12:14:00+00:00",
+        "feed": "www.japantimes.co.jp"
+      },
+      {
+        "title": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
+        "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
+        "published": "2026-11-19T12:00:00+00:00",
+        "feed": "www.japantimes.co.jp"
+      },
+      {
+        "title": "Rakuten Securities rushes to cope with data breach",
+        "link": "https://www.japantimes.co.jp/business/2026/11/19/companies/rakuten-securities-data-breach/",
+        "published": "2026-11-19T11:55:00+00:00",
+        "feed": "www.japantimes.co.jp"
+      },
+      {
+        "title": "South Korea court orders retrial of ex-PM Han in martial law case",
+        "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
+        "published": "2026-11-19T11:45:00+00:00",
+        "feed": "www.japantimes.co.jp"
+      },
+      {
+        "title": "アルピーヌの新型電動ホットハッチ「アルピーヌ A290」日本導入 100台限定の「プルミエール エディション」649万円 - Car Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jNzBpWWI5bG1OTWtnV1A4MlZHcjF5bGxuQVFzcVBJQWx4cVNJSERNUHZ5SnhuZnpDMGtnRlVWUkpud3Z2dEpqNGx6emZXc0xDMUV0eHYxNGZseUhteUNUalhMN1k?oc=5",
+        "published": "2026-11-19T11:39:37+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "しらす干しにフグ稚魚混入か／カブ弘前店販売｜青森県｜青森ニュース｜Web東奥 - 東奥日報社",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMFZ2YTBtT1F3WF9tdmJINWpWQmVIRXNuWFlqT2M0bGRZbGtWZGpTdVpJM3QydWx3djhxRllvNGdnUldsMDR0NU5MWnhOSkZVYXFyR0dIcF8?oc=5",
+        "published": "2026-11-19T11:37:00+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’",
+        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/",
+        "published": "2026-11-19T11:31:00+00:00",
+        "feed": "www.japantimes.co.jp"
+      },
+      {
+        "title": "Riyadh’s tallest building damaged as Saudi reports new Houthi attacks",
+        "link": "https://www.japantimes.co.jp/news/2026/11/19/world/riyadh-saudi-houthi-attacks/",
+        "published": "2026-11-19T11:25:00+00:00",
+        "feed": "www.japantimes.co.jp"
+      },
+      {
+        "title": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か - NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVd3dtVHhjN0h3VWJ0TDNra0s0QXphZ0V0NEFhWE1zQ3hGeVRpS0xrVGdWVVB5OFNxYWJfeF85OGh1dGYwTl9wZmJJMVdoeVRQOWpCaGE2Z0l0U3BKM3FN?oc=5",
+        "published": "2026-11-19T11:12:55+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "秋の京都でまたアートの“破壊行為”「ブツブツ言いながらコンクリートの塊投げつける」 先週の被害は犯人が名乗り出る - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMTVtV2hIaXd4aTQtZTd5OU9HdkFnT05wdmNzN2NfcWxGakZEellna2xNMDNqbzY0NDBRT1gtY19DbGlOUzVLeExTTU9PdEt5SDhRMHJSRUhEOWRuWlRXci13WWNxUTJJdFk5Z1Bud1A2UEF5VmtIcEwwbEZFS2c?oc=5",
+        "published": "2026-11-19T10:52:19+00:00",
+        "feed": "news.google.com"
+      },
+      {
+        "title": "Japan government under fire for using conspiracy theory YouTuber in PR",
+        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/conspiracy-theory-youtuber-pr/",
+        "published": "2026-11-19T10:52:00+00:00",
         "feed": "www.japantimes.co.jp"
       }
     ],
     "International": [
       {
-        "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20T00:50:24+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20T00:13:21+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Airbnb's divisive new house rules come into force",
+        "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20T00:12:28+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+        "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20T00:08:37+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20T00:02:07+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "How did Anthropic's stock market debut unfold?",
+        "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T23:52:25+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Trump posthumously pardons US baseball legend Pete Rose",
+        "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T23:51:50+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T23:40:29+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T23:33:51+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "California targets Nvidia in China AI chip probe",
+        "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T23:04:30+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "From premature baby to social media star - Famed hippo Fiona dies",
+        "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T22:54:03+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+        "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T22:48:22+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T20:07:02+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+        "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T17:38:22+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Rohingya genocide: What was said in court and what happens now?",
+        "link": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T17:35:05+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+        "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T17:23:34+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+        "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T17:23:29+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+        "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T17:03:23+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
         "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-19T02:20:15+00:00",
+        "published": "2026-11-19T15:58:58+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-        "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-19T01:56:28+00:00",
+        "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+        "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T15:52:26+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "Crimean Bridge attacked again, Russian official says",
+        "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T13:35:52+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T13:31:23+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
         "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-19T01:05:03+00:00",
+        "published": "2026-11-19T13:07:35+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+        "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T12:56:30+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Florida pastor found guilty over role in assassination of Haitian president",
+        "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T11:44:57+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+        "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T09:21:54+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T06:15:57+00:00",
+        "feed": "feeds.bbci.co.uk"
+      },
+      {
+        "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+        "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T02:59:06+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
@@ -409,9 +559,9 @@
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-        "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-19T00:38:52+00:00",
+        "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+        "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-19T00:05:31+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
@@ -439,31 +589,7 @@
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-        "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T23:04:06+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T23:01:09+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-        "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T22:34:56+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-        "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T22:32:47+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
         "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-18T21:28:08+00:00",
         "feed": "feeds.bbci.co.uk"
@@ -481,33 +607,9 @@
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-        "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T17:09:43+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
         "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
         "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-18T17:00:40+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-        "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T17:00:04+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-        "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T16:33:16+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T16:05:26+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
@@ -535,24 +637,6 @@
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "Bancroft sandpaper claims heap pressure on Cummins",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T11:12:46+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-        "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T10:23:57+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-        "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T09:28:35+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
         "title": "Ghana's new $60m presidential jet sparks public outrage",
         "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-18T09:27:51+00:00",
@@ -565,21 +649,9 @@
         "feed": "feeds.bbci.co.uk"
       },
       {
-        "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-        "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T08:33:32+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
         "title": "How important are Nvidia and Jensen Huang to the US economy?",
         "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-18T06:04:21+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-        "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T04:57:06+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
@@ -592,18 +664,6 @@
         "title": "Waymo pulls driverless taxis from all US freeways",
         "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-18T03:07:22+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-        "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T02:29:52+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Irishman charged with destroying US military aircraft with axe",
-        "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-18T02:00:37+00:00",
         "feed": "feeds.bbci.co.uk"
       },
       {
@@ -623,325 +683,307 @@
         "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-17T23:02:12+00:00",
         "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Speed camera fault may have allowed drivers to escape fines",
-        "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-17T20:04:54+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Government backs welfare shake-up to prevent 'lost generation'",
-        "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-17T18:43:05+00:00",
-        "feed": "feeds.bbci.co.uk"
-      },
-      {
-        "title": "Where are the most jobs for 18-24 year-olds?",
-        "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-17T12:35:53+00:00",
-        "feed": "feeds.bbci.co.uk"
       }
     ],
     "Brazil": [
       {
-        "title": "Vorcaro negociava com Esteves nos bastidores enquanto o acusava de atrapalhar Master",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-negociava-com-esteves-nos-bastidores-enquanto-o-acusava-de-atrapalhar-master.shtml",
-        "published": "2026-11-19T02:00:00+00:00",
+        "title": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF e deve superar prazo de 15 dias",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-tera-nucleo-com-gonet-para-avaliar-relatorios-sobre-ministros-do-stf-e-deve-superar-prazo-de-15-dias.shtml",
+        "published": "2026-11-20T02:03:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Regulação das big techs pode repetir erros da intervenção no setor elétrico",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2026/11/regulacao-das-big-techs-pode-repetir-erros-da-intervencao-no-setor-eletrico.shtml",
-        "published": "2026-11-19T02:00:00+00:00",
+        "title": "Entidades criticam decreto de Lula que regulamenta fim da escala 6x1 e falam em falta de informações",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-criticam-decreto-de-lula-que-regulamenta-fim-da-escala-6x1-e-falam-em-falta-de-informacoes.shtml",
+        "published": "2026-11-20T02:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Copel não investirá em novos parques eólicos enquanto houver cortes de geração, diz CEO da companhia",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/copel-nao-investira-em-novos-parques-eolicos-enquanto-houver-cortes-de-geracao-diz-ceo-da-companhia.shtml",
-        "published": "2026-11-19T02:00:00+00:00",
+        "title": "Lula diz que quer evitar erros do atual mandato com ministros e que busca equipe sólida",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-diz-que-quer-evitar-erros-do-atual-mandato-com-ministros-e-que-busca-equipe-solida.shtml",
+        "published": "2026-11-20T02:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "IPO da Anthropic pode criar milhares de novos milionários no Vale do Silício",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ipo-da-anthropic-pode-criar-milhares-de-novos-milionarios-no-vale-do-silicio.shtml",
-        "published": "2026-11-19T02:00:00+00:00",
+        "title": "Jornais negros surgiram há quase 200 anos para reivindicar cidadania e denunciar racismo",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/jornais-negros-surgiram-ha-quase-200-anos-para-reivindicar-cidadania-e-denunciar-racismo.shtml",
+        "published": "2026-11-20T02:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
-        "published": "2026-11-19T02:00:00+00:00",
+        "title": "Trump comprou até US$ 265 mil em ações da Nvidia em setembro",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-comprou-ate-us-265-mil-em-acoes-da-nvidia-em-setembro.shtml",
+        "published": "2026-11-20T01:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Presidente do Memorial da América Latina pede a Lula que avalie federalizar complexo",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-pede-a-lula-que-avalie-federalizar-complexo.shtml",
-        "published": "2026-11-19T02:00:00+00:00",
+        "title": "Presidente do Memorial da América Latina diz que eventual federalização terá participação do governo de SP",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-diz-que-eventual-federalizacao-tera-participacao-do-governo-de-sp.shtml",
+        "published": "2026-11-20T01:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Motta diz que pediu para Moraes liberar ação sobre dosimetria para virar página do 8/1",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/motta-diz-que-pediu-para-moraes-liberar-acao-sobre-dosimetria-para-virar-pagina-do-81.shtml",
-        "published": "2026-11-19T01:11:00+00:00",
+        "title": "Aviso",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/aviso-do-colunista.shtml",
+        "published": "2026-11-20T00:45:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Dias difíceis neste início de Lula 4",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/dias-dificeis-neste-inicio-de-lula-4.shtml",
-        "published": "2026-11-19T00:55:00+00:00",
+        "title": "PSB e PDT desistem de federação com legendas médias por serem mais à direita",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psb-e-pdt-desistem-de-federacao-com-legendas-medias-por-serem-mais-a-direita.shtml",
+        "published": "2026-11-20T00:30:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Motta afirma que Câmara iniciará discussão do 'plano Moretti' na próxima segunda (23)",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/motta-afirma-que-camara-iniciara-discussao-do-plano-moretti-na-proxima-segunda-23.shtml",
-        "published": "2026-11-19T00:02:00+00:00",
+        "title": "Justiça aprova parcelamento de R$ 139 milhões em execuções trabalhistas do Grupo Pão de Açúcar",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-aprova-parcelamento-de-r-139-milhoes-em-execucoes-trabalhistas-do-grupo-pao-de-acucar.shtml",
+        "published": "2026-11-19T22:46:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "PGR denuncia Flávio Bolsonaro sob acusação de calúnia contra Lula em postagem sobre Maduro",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-denuncia-flavio-bolsonaro-sob-acusacao-de-calunia-contra-lula-em-postagem-sobre-maduro.shtml",
-        "published": "2026-11-18T23:34:00+00:00",
+        "title": "PCdoB deve votar a favor do plano Moretti, mas apresenta projeto alternativo para reduzir juros",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pcdob-deve-votar-a-favor-do-plano-moretti-mas-apresenta-projeto-alternativo-para-reduzir-juros.shtml",
+        "published": "2026-11-19T22:43:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Lula começa a tirar 'plano Moretti' do fogo amigo",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-comeca-a-tirar-plano-moretti-do-fogo-amigo.shtml",
-        "published": "2026-11-18T23:30:00+00:00",
+        "title": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça após citações no caso Master",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-envia-a-pgr-relatorios-sobre-moraes-kassio-toffoli-e-mendonca-apos-citacoes-no-caso-master.shtml",
+        "published": "2026-11-19T22:31:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "PF entrega relatórios sobre citações a ministros do STF no caso Master, e Fachin anuncia envio à PGR",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andrei-entrega-a-fachin-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.shtml",
-        "published": "2026-11-18T23:23:00+00:00",
+        "title": "Debate sobre plano Moretti é só o aperitivo da disputa da esquerda no Lula 4; veja vídeo",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/debate-sobre-plano-moretti-e-so-o-aperitivo-da-disputa-da-esquerda-no-lula-4-veja-video.shtml",
+        "published": "2026-11-19T22:11:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "O lado bom e o lado ruim da política climática",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/11/o-lado-bom-e-o-lado-ruim-da-politica-climatica.shtml",
-        "published": "2026-11-18T23:00:00+00:00",
+        "title": "Distração e a arte de resolver problemas",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/distracao-e-a-arte-de-resolver-problemas.shtml",
+        "published": "2026-11-19T21:38:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Arco Norte e etanol incentivam investimentos no milho, diz banco",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/arco-norte-e-etanol-incentivam-investimentos-no-milho-diz-banco.shtml",
-        "published": "2026-11-18T22:45:00+00:00",
+        "title": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-direto-chega-a-suspender-negociacoes-em-dia-de-forte-estresse-no-mercado.shtml",
+        "published": "2026-11-19T21:37:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Moro anuncia ex-procurador da Lava Jato para comandar futura secretaria Anticorrupção no Paraná",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moro-anuncia-ex-procurador-da-lava-jato-para-comandar-futura-secretaria-anticorrupcao-no-parana.shtml",
-        "published": "2026-11-18T22:31:00+00:00",
+        "title": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-marca-julgamento-sobre-dosimetria-que-pode-beneficiar-bolsonaro-para-4-de-dezembro.shtml",
+        "published": "2026-11-19T21:28:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Chinesa Jetour terá fábrica de R$ 400 milhões no RJ e montagem na Colômbia",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/chinesa-jetour-tera-fabrica-de-r-400-milhoes-no-rj-e-montagem-na-colombia.shtml",
-        "published": "2026-11-18T22:15:00+00:00",
+        "title": "JPMorgan, Visa e Mastercard relatam ataques cibernéticos a fornecedores",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jpmorgan-visa-e-mastercard-relatam-ataques-ciberneticos-a-fornecedores.shtml",
+        "published": "2026-11-19T21:24:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Mantido por Tarcísio, secretário de Segurança promete priorizar combate à violência contra a mulher",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mantido-por-tarcisio-secretario-de-seguranca-promete-priorizar-combate-a-violencia-contra-a-mulher.shtml",
-        "published": "2026-11-18T22:00:00+00:00",
+        "title": "Amazon vai desativar venda de bebidas alcoólicas sem imagem do rótulo",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/amazon-vai-desativar-venda-de-bebidas-alcoolicas-sem-imagem-do-rotulo.shtml",
+        "published": "2026-11-19T21:20:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Presidente do Paraguai destitui diretor de Itaipu após crise do Ueno Bank",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/presidente-do-paraguai-destitui-diretor-de-itaipu-apos-crise-do-ueno-bank.shtml",
-        "published": "2026-11-18T21:55:00+00:00",
+        "title": "Boom do etanol de milho impulsiona confinamento de gado no Brasil",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/boom-do-etanol-de-milho-impulsiona-confinamento-de-gado-no-brasil.shtml",
+        "published": "2026-11-19T21:04:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Anthropic levanta US$ 81 bilhões em IPO, supera SpaceX e deve estrear na Bolsa valendo US$ 1,5 tri",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anthropic-precifica-acao-do-ipo-em-us-83.shtml",
-        "published": "2026-11-18T21:48:00+00:00",
+        "title": "Diversificar seus investimentos pode fazer você ganhar menos?",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/diversificar-seus-investimentos-pode-fazer-voce-ganhar-menos.shtml",
+        "published": "2026-11-19T21:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Novo lança Paulo Martins na disputa pela presidência da Câmara contra Motta",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/novo-lanca-paulo-martins-na-disputa-pela-presidencia-da-camara-contra-motta.shtml",
-        "published": "2026-11-18T21:38:00+00:00",
+        "title": "Presidente do PSOL diz que partido está unido contra pressão do mercado sobre Lula",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-psol-diz-que-partido-esta-unido-contra-pressao-do-mercado-sobre-lula.shtml",
+        "published": "2026-11-19T20:41:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Caldeira explode em fábrica da Klabin em SC e dez trabalhadores são hospitalizados; veja vídeo",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/caldeira-explode-em-fabrica-da-klabin-em-sc-e-dez-trabalhadores-sao-hospitalizados.shtml",
-        "published": "2026-11-18T21:32:00+00:00",
+        "title": "Presidente do TRF-1 derruba liminar e libera pregão do Senado para iPhones e gasto de R$ 6 mi",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/presidente-do-trf-1-derruba-liminar-e-libera-pregao-do-senado-com-gasto-de-r-266-milhoes-em-iphones.shtml",
+        "published": "2026-11-19T20:21:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Setor nuclear cobra espaço nas metas climáticas da COP31",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/setor-nuclear-cobra-espaco-nas-metas-climaticas-da-cop31.shtml",
-        "published": "2026-11-18T21:16:00+00:00",
+        "title": "Empresas que ignoram alerta sobre proteção de dados são os maiores alvos de multas pela ANPD",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/empresas-que-ignoram-alerta-sobre-protecao-de-dados-sao-os-maiores-alvos-de-multas-pela-anpd.shtml",
+        "published": "2026-11-19T20:16:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Ter uma carteira para cada objetivo pode ser um erro?",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-uma-carteira-para-cada-objetivo-pode-ser-um-erro.shtml",
-        "published": "2026-11-18T21:00:00+00:00",
+        "title": "Rockstar deve quebrar recordes de vendas com lançamento de GTA 6",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/rockstar-deve-quebrar-recordes-de-vendas-com-lancamento-de-gta-6.shtml",
+        "published": "2026-11-19T20:12:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Meta lança Achados, aplicativo que reúne vendas do Facebook e Instagram",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/meta-lanca-achados-aplicativo-que-reune-vendas-do-facebook-e-instagram.shtml",
-        "published": "2026-11-18T20:48:00+00:00",
+        "title": "Apesar de ansiedade do mercado, Lula 4 não assume em ambiente de terra arrasada, diz André Esteves",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/apesar-de-ansiedade-do-mercado-lula-4-nao-assume-em-ambiente-de-terra-arrasada-diz-andre-esteves.shtml",
+        "published": "2026-11-19T20:09:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "'Plano Moretti' reduz incentivo do Programa de Alimentação do Trabalhador e pressiona vale-refeição",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/plano-moretti-reduz-incentivo-do-programa-de-alimentacao-do-trabalhador-e-pressiona-vale-refeicao.shtml",
-        "published": "2026-11-18T20:48:00+00:00",
+        "title": "Lula diz que criará ministério voltado à população idosa e cita apoio na eleição",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-diz-que-criara-ministerio-voltado-a-populacao-idosa-e-cita-apoio-na-eleicao.shtml",
+        "published": "2026-11-19T19:40:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Beleza concentra 34% das marcas com crescimento mais acelerado no Brasil",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/beleza-concentra-34-das-marcas-com-crescimento-mais-acelerado-no-brasil.shtml",
-        "published": "2026-11-18T20:30:00+00:00",
+        "title": "Juro alto no Brasil e o que nos separa de México e África do Sul",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/braulio-borges/2026/11/juro-alto-no-brasil-e-o-que-nos-separa-de-mexico-e-africa-do-sul.shtml",
+        "published": "2026-11-19T19:30:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "O Master e o brasileiro desconfiado",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/o-master-e-o-brasileiro-desconfiado.shtml",
-        "published": "2026-11-18T20:18:00+00:00",
+        "title": "Governo supera meta de cota racial em cargos de confiança, mas não mostra detalhes de hierarquia",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-supera-meta-de-cota-racial-em-cargos-de-confianca-mas-nao-mostra-detalhes-de-hierarquia.shtml",
+        "published": "2026-11-19T19:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Politizar a reforma do Judiciário",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/e-preciso-politizar-a-reforma-do-judiciario.shtml",
-        "published": "2026-11-18T20:15:00+00:00",
+        "title": "Show da Virada na Paulista terá Pericles com participação de pagodeiros dos anos 90",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/show-da-virada-na-paulista-tera-pericles-com-participacao-de-pagodeiros-dos-anos-90.shtml",
+        "published": "2026-11-19T18:53:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "ANP rejeita pedidos para suspender processo de revisão das tarifas de gasodutos",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anp-rejeita-pedidos-para-suspender-processo-de-revisao-das-tarifas-de-gasodutos.shtml",
-        "published": "2026-11-18T20:00:00+00:00",
+        "title": "iFood informa vazamento de dados de clientes, entregadores e restaurantes",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ifood-informa-vazamento-de-dados-de-clientes-entregadores-e-restaurantes.shtml",
+        "published": "2026-11-19T18:47:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Farmacêuticas conseguem revisão na Justiça de multas milionárias pela venda de medicamentos acima do teto",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/farmaceuticas-conseguem-revisao-na-justica-de-multas-milionarias-pela-venda-de-medicamentos-acima-do-teto.shtml",
-        "published": "2026-11-18T19:47:00+00:00",
+        "title": "BC erra ao intervir na cotação do dólar, diz ex-chefe de departamento da autarquia",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-erra-ao-intervir-na-cotacao-do-dolar-diz-ex-chefe-de-departamento-da-autarquia.shtml",
+        "published": "2026-11-19T18:45:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Ata do Fed mostra preocupação com inflação e possibilidade de novas altas de juros",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ata-do-fed-mostra-preocupacao-com-inflacao-e-possibilidade-de-novas-altas-de-juros.shtml",
-        "published": "2026-11-18T19:43:00+00:00",
+        "title": "Reforma do Judiciário tem que ser feita com a cabeça, não com o fígado, diz presidente do STJ",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/reforma-do-judiciario-tem-que-ser-feita-com-a-cabeca-nao-com-o-figado-diz-presidente-do-stj.shtml",
+        "published": "2026-11-19T18:36:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Justiça manda Keeta tirar Pizza Hut do aplicativo por oferecer produtos sem aval",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-manda-keeta-tirar-pizza-hut-do-aplicativo-por-oferecer-produtos-sem-aval.shtml",
-        "published": "2026-11-18T19:25:00+00:00",
+        "title": "Crise no Supremo tem origem na atividade de juízes empresários",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/11/crise-no-supremo-tem-origem-na-atividade-de-juizes-empresarios.shtml",
+        "published": "2026-11-19T18:00:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Senado conclui votação do 'plano Moretti' e mantém medidas de ajuste nas contas; texto vai à Câmara",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-retoma-analise-de-possiveis-mudancas-no-plano-moretti-de-ajuste-nas-contas.shtml",
-        "published": "2026-11-18T19:19:00+00:00",
+        "title": "Empresas do setor financeiro do Reino Unido terão de reforçar segurança digital",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/empresas-do-setor-financeiro-do-reino-unido-terao-de-reforcar-seguranca-digital.shtml",
+        "published": "2026-11-19T17:59:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Pressa para corrigir falhas identificadas por IA pode ter causado apagões nos EUA",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/pressa-para-corrigir-falhas-identificadas-por-ia-pode-causar-apagoes-nos-eua.shtml",
-        "published": "2026-11-18T19:02:00+00:00",
+        "title": "Senado encomenda novo retrato de Davi Alcolumbre por R$ 11,4 mil",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/senado-encomenda-novo-retrato-de-davi-alcolumbre-por-r-114-mil.shtml",
+        "published": "2026-11-19T17:38:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "IAs que se 'autoaperfeiçoam' serão principal alvo de regulação nos EUA, diz democrata",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ias-que-se-autoaperfeicoam-serao-principal-alvo-de-regulacao-nos-eua-diz-democrata-eleito.shtml",
-        "published": "2026-11-18T18:49:00+00:00",
+        "title": "Fim da escala 6x1 aumenta a hora extra; veja tabela com novos valores",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fim-da-escala-6x1-aumenta-a-hora-extra-veja-tabela-com-novos-valores.shtml",
+        "published": "2026-11-19T17:36:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Filha de Jensen Huang mantém influência na Nvidia após saída do pai",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/filha-de-jensen-huang-mantem-influencia-na-nvidia-apos-saida-do-pai.shtml",
-        "published": "2026-11-18T18:42:00+00:00",
+        "title": "Área destinada à reparação de danos ambientais em SP triplica nos últimos três anos",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/area-destinada-a-reparacao-de-danos-ambientais-em-sp-triplica-nos-ultimos-tres-anos.shtml",
+        "published": "2026-11-19T17:24:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Lula deve ir além do 'plano Moretti', mas reação à queda de popularidade é incerta, diz Eurasia",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-deve-ir-alem-do-plano-moretti-mas-reacao-a-queda-de-popularidade-e-incerta-diz-eurasia.shtml",
-        "published": "2026-11-18T18:37:00+00:00",
+        "title": "Empresas dos EUA recorrem a robôs para enfrentar falta de mão de obra",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/empresas-dos-eua-recorrem-a-robos-para-enfrentar-falta-de-mao-de-obra.shtml",
+        "published": "2026-11-19T17:22:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "TCM-SP lança cartilha sobre violência contra a mulher e mira selo de qualidade",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tcm-sp-lanca-cartilha-sobre-violencia-contra-a-mulher-e-mira-selo-de-qualidade.shtml",
-        "published": "2026-11-18T18:30:00+00:00",
+        "title": "Entidades exibem dados que mostram o temor dos setores sobre fim da escala 6x1",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/entidades-apresentam-dados-alarmantes-na-camara-sobre-fim-da-escala-6x1.shtml",
+        "published": "2026-11-19T17:13:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Durigan descarta recessão econômica e defende ajuste fiscal e reforma do Judiciário",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/durigan-descarta-recessao-economica-e-defende-ajuste-fiscal-e-reforma-do-judiciario.shtml",
-        "published": "2026-11-18T18:28:00+00:00",
+        "title": "Copel vê nova era para hidrelétricas com avanço da energia solar e eólica",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/copel-ve-nova-era-para-hidreletricas-com-avanco-da-energia-solar-e-eolica.shtml",
+        "published": "2026-11-19T17:12:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Tencent diz que novas restrições dos EUA podem desacelerar treinamento de modelos",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/tencent-diz-que-novas-restricoes-dos-eua-podem-desacelerar-treinamento-de-modelos.shtml",
-        "published": "2026-11-18T18:03:00+00:00",
+        "title": "Ações da Anthropic estreiam com alta de 17% na Nasdaq",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
+        "published": "2026-11-19T17:02:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Ex-alunos viram réus após criticar professor-juiz que pediu para servidora aplicar prova de ética na UFRJ",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ex-alunos-viram-reus-apos-criticar-professor-juiz-que-pediu-para-servidora-aplicar-prova-de-etica-na-ufrj.shtml",
-        "published": "2026-11-18T18:00:00+00:00",
+        "title": "Fachin mantém prisão de primo de Vorcaro por risco de ingerência na investigação do caso Master",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-mantem-prisao-de-primo-de-vorcaro-por-risco-de-ingerencia-na-investigacao.shtml",
+        "published": "2026-11-19T16:36:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Ministério dos Direitos Humanos abre licitação para massagens ao custo de R$ 722 mil e depois desiste",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-dos-direitos-humanos-abre-licitacao-para-massagens-ao-custo-de-r-722-mil-e-depois-desiste.shtml",
-        "published": "2026-11-18T17:52:00+00:00",
+        "title": "UE adia aplicação de lei contra o metano para 2029",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/ue-adia-aplicacao-de-lei-contra-o-metano-para-2029.shtml",
+        "published": "2026-11-19T16:28:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Andrei diz que relatórios da PF sobre ministros extrapolavam 'balizas do STF'",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andrei-diz-que-pf-segue-constituicao-e-que-afastamento-de-delegados-do-caso-master-foi-legal.shtml",
-        "published": "2026-11-18T17:45:00+00:00",
+        "title": "Salles na Justiça é escárnio de Tarcísio com São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/11/salles-na-justica-e-escarnio-de-tarcisio-com-sao-paulo.shtml",
+        "published": "2026-11-19T16:23:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Safra de soja vive melhor momento com preço elevado pelo dólar, diz consultoria",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/safra-de-soja-vive-melhor-momento-com-preco-elevado-pelo-dolar-diz-consultoria.shtml",
-        "published": "2026-11-18T17:07:00+00:00",
+        "title": "Câmara de SP aponta R$ 5 bi em dívidas renegociadas desde 2025",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/camara-de-sp-diz-que-fiscalizacao-rendeu-mais-de-r-5-bi-em-dividas-renegociadas.shtml",
+        "published": "2026-11-19T15:58:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Caso Master e pandemia desafiam atuação de procurador-geral mais longevo da história do BC",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caso-master-e-pandemia-desafiam-atuacao-de-procurador-geral-mais-longevo-da-historia-do-bc.shtml",
-        "published": "2026-11-18T17:00:00+00:00",
+        "title": "Com El Niño, Bradesco Seguros registra alta de 37,5% nos casos de prejuízos ligados ao clima",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/com-el-nino-bradesco-seguros-registra-alta-de-375-nos-casos-de-prejuizos-ligados-ao-clima.shtml",
+        "published": "2026-11-19T15:44:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "PSOL calibra oposição a 'plano Moretti' e não deve aderir a novas manifestações",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psol-calibra-oposicao-a-plano-moretti-e-nao-deve-aderir-a-novas-manifestacoes.shtml",
-        "published": "2026-11-18T17:00:00+00:00",
+        "title": "Consórcio dos EUA vence disputa por minerais estratégicos no Quênia",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/consorcio-dos-eua-vence-disputa-por-minerais-estrategicos-no-quenia.shtml",
+        "published": "2026-11-19T15:36:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Racha na esquerda após anúncio de 'plano Moretti' envolve sombra de 2013 e novo exército digital",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/racha-na-esquerda-apos-anuncio-de-plano-moretti-envolve-sombra-de-2013-e-novo-exercito-digital.shtml",
-        "published": "2026-11-18T16:00:00+00:00",
+        "title": "Não quero ir embora do Brasil, quero trabalhar pelo país, diz Tereza Cristina sobre futuro da direita",
+        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-quero-ir-embora-do-brasil-quero-trabalhar-pelo-pais-diz-tereza-cristina-sobre-futuro-da-direita.shtml",
+        "published": "2026-11-19T15:34:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Relatórios da PF sobre ministros do STF e Master causam apreensão e incerteza sobre reação de Fachin",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relatorios-da-pf-sobre-ministros-do-stf-e-master-causam-apreensao-e-incerteza-sobre-reacao-de-fachin.shtml",
-        "published": "2026-11-18T16:00:00+00:00",
+        "title": "PGR estuda adiar parte da acusação de 1ª denúncia contra Vorcaro para não enfraquecer caso Master",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pgr-estuda-adiar-parte-da-acusacao-de-1a-denuncia-contra-vorcaro-para-nao-enfraquecer-outros-casos.shtml",
+        "published": "2026-11-19T15:30:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Lula deve encontrar Alcolumbre hoje para tratar de STF e composição do governo",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-deve-encontrar-alcolumbre-hoje-para-tratar-de-stf-e-composicao-do-governo.shtml",
-        "published": "2026-11-18T15:42:00+00:00",
+        "title": "O auge na oferta de carne bovina está acabando, e o preço sobe",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/o-auge-na-oferta-de-carne-bovina-esta-acabando-e-o-preco-sobe.shtml",
+        "published": "2026-11-19T15:15:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       },
       {
-        "title": "Morre Paulo Gallotti, ministro aposentado do STJ, aos 81 anos",
-        "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/morre-paulo-gallotti-ministro-aposentado-do-stj-aos-81-anos.shtml",
-        "published": "2026-11-18T15:39:00+00:00",
+        "title": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/proposta-de-ajuste-fiscal-deve-passar-na-camara-sem-alteracoes-substanciais.shtml",
+        "published": "2026-11-19T15:13:00+00:00",
         "feed": "feeds.folha.uol.com.br"
       }
     ],
@@ -949,70 +991,70 @@
   },
   "disasters": {
     "quakes": {
-      "last_24h_count": 50,
+      "last_24h_count": 27,
       "top": [
         {
-          "at": "2026-11-19T09:38:00+09:00",
+          "at": "2026-11-20T07:49:00+09:00",
           "place": "熊本県天草・芦北地方",
           "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
-          "mag": "3.6",
-          "max_shindo": "3",
-          "title": "震源・震度情報"
-        },
-        {
-          "at": "2026-11-19T02:36:00+09:00",
-          "place": "",
-          "place_en": "",
-          "mag": "",
-          "max_shindo": "3",
-          "title": "震度速報"
-        },
-        {
-          "at": "2026-11-19T02:25:00+09:00",
-          "place": "熊本県天草・芦北地方",
-          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
-          "mag": "3.5",
-          "max_shindo": "3",
-          "title": "震源・震度情報"
-        },
-        {
-          "at": "2026-11-18T18:37:00+09:00",
-          "place": "日本海中部",
-          "place_en": "Central Sea of Japan",
-          "mag": "5.0",
-          "max_shindo": "3",
-          "title": "震源・震度情報"
-        },
-        {
-          "at": "2026-11-19T06:41:00+09:00",
-          "place": "熊本県天草・芦北地方",
-          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
-          "mag": "2.8",
+          "mag": "3.2",
           "max_shindo": "2",
           "title": "震源・震度情報"
         },
         {
-          "at": "2026-11-19T05:03:00+09:00",
+          "at": "2026-11-20T03:43:00+09:00",
+          "place": "新潟県上越地方",
+          "place_en": "Joetsu, Niigata Prefecture",
+          "mag": "2.4",
+          "max_shindo": "2",
+          "title": "震源・震度情報"
+        },
+        {
+          "at": "2026-11-19T20:41:00+09:00",
           "place": "熊本県天草・芦北地方",
           "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
+          "mag": "3.3",
+          "max_shindo": "2",
+          "title": "震源・震度情報"
+        },
+        {
+          "at": "2026-11-19T17:16:00+09:00",
+          "place": "熊本県天草・芦北地方",
+          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
+          "mag": "2.7",
+          "max_shindo": "2",
+          "title": "震源・震度情報"
+        },
+        {
+          "at": "2026-11-19T14:33:00+09:00",
+          "place": "熊本県天草・芦北地方",
+          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
+          "mag": "2.6",
+          "max_shindo": "2",
+          "title": "震源・震度情報"
+        },
+        {
+          "at": "2026-11-19T12:06:00+09:00",
+          "place": "熊本県天草・芦北地方",
+          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
+          "mag": "3.2",
+          "max_shindo": "2",
+          "title": "震源・震度情報"
+        },
+        {
+          "at": "2026-11-20T11:11:00+09:00",
+          "place": "日向灘",
+          "place_en": "Hyuganada Sea",
           "mag": "3.1",
-          "max_shindo": "2",
+          "max_shindo": "1",
           "title": "震源・震度情報"
         },
         {
-          "at": "2026-11-19T04:37:00+09:00",
-          "place": "熊本県天草・芦北地方",
-          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
-          "mag": "2.9",
-          "max_shindo": "2",
-          "title": "震源・震度情報"
-        },
-        {
-          "at": "2026-11-19T04:30:00+09:00",
-          "place": "熊本県天草・芦北地方",
-          "place_en": "Amakusa and Ashikita Region,  Kumamoto Prefecture",
-          "mag": "3.1",
-          "max_shindo": "2",
+          "at": "2026-11-20T10:46:00+09:00",
+          "place": "和歌山県北部",
+          "place_en": "Northern Wakayama Prefecture",
+          "mag": "2.6",
+          "max_shindo": "1",
           "title": "震源・震度情報"
         }
       ],
